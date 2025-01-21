@@ -100,7 +100,7 @@ void _showBottomSheet(String? id) {
               decoration: InputDecoration(labelText: "Description"),
               keyboardType: TextInputType.multiline,
               maxLines: null, // Allows the TextField to grow dynamically
-              textInputAction: TextInputAction.newline, // Shows "Enter" button
+              textInputAction: TextInputAction.newline, 
             ),
             SizedBox(height: 16),
             ElevatedButton(
