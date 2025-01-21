@@ -41,21 +41,18 @@ A Flutter application demonstrating CRUD (Create, Read, Update, Delete) operatio
 ---
 
 ## 🚀 Screenshots  
-
-### Home Screen
-![Home Screen](https://github.com/JarrarShahid/data-manager-app-with-apis/blob/main/Assets/Home.jpg)  
-
-### Adding Data
-![Add Data](https://github.com/JarrarShahid/data-manager-app-with-apis/blob/main/Assets/Adding.jpg)  
-
-### Data Added
-![Data Added](https://github.com/JarrarShahid/data-manager-app-with-apis/blob/main/Assets/Added.jpg)  
-
-### Updating Data
-![Updating Data](https://github.com/JarrarShahid/data-manager-app-with-apis/blob/main/Assets/Updating.jpg)  
-
-### Data Deleted
-![Data Deleted](https://github.com/JarrarShahid/data-manager-app-with-apis/blob/main/Assets/Deleted.jpg)  
+### Start
+![screenshots](https://github.com/JarrarShahid/data-manager-app/blob/main/Assets/Start.jpg)
+###Deleted
+![screenshots](https://github.com/JarrarShahid/data-manager-app/blob/main/Assets/Delete.jpg)
+### Adding
+![screenshots](https://github.com/JarrarShahid/data-manager-app/blob/main/Assets/Adding.jpg)
+### Added
+![screenshots](https://github.com/JarrarShahid/data-manager-app/blob/main/Assets/Added.jpg)
+### Updating
+![screenshots](https://github.com/JarrarShahid/data-manager-app/blob/main/Assets/Updating.jpg)
+###Updated
+![screenshots](https://github.com/JarrarShahid/data-manager-app/blob/main/Assets/Updated.jpg) 
 
 ---
 
