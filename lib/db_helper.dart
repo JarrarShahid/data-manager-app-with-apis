@@ -23,7 +23,7 @@ class SQLHelper{
 static Future<int> createData(String item, String? desc) async {
   final db = await SQLHelper.db();
 
-  final data = {'title': item, 'desc': desc}; // Corrected variable name
+  final data = {'title': item, 'desc': desc};
   final id = await db.insert('data', data,
       conflictAlgorithm: sql.ConflictAlgorithm.replace);
 
